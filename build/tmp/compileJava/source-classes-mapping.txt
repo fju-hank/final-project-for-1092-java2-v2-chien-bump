@@ -1,19 +1,19 @@
-com/fju/E.java
- com.fju.E
+com/fju/McChicken.java
+ com.fju.McChicken
 com/fju/BLTseries.java
  com.fju.BLTseries
-com/fju/ComboMeal.java
- com.fju.ComboMeal
-com/fju/D.java
- com.fju.D
+com/fju/BigMac.java
+ com.fju.BigMac
+com/fju/BeefBurger.java
+ com.fju.BeefBurger
 com/fju/BLTSpicyChickenBurger.java
  com.fju.BLTSpicyChickenBurger
 com/fju/DoubleCheeseBurger.java
  com.fju.DoubleCheeseBurger
-com/fju/B.java
- com.fju.B
-com/fju/C.java
- com.fju.C
+com/fju/Menu.java
+ com.fju.Menu
+com/fju/BLTBeefBurger.java
+ com.fju.BLTBeefBurger
 com/fju/SpicyChickenBurger.java
  com.fju.SpicyChickenBurger
 com/fju/McFish.java
@@ -22,17 +22,19 @@ com/fju/ChickenBurger.java
  com.fju.ChickenBurger
 com/fju/CheeseBurger.java
  com.fju.CheeseBurger
-com/fju/BigMac.java
- com.fju.BigMac
-com/fju/Menu.java
- com.fju.Menu
-com/fju/BLTBeefBurger.java
- com.fju.BLTBeefBurger
-com/fju/BeefBurger.java
- com.fju.BeefBurger
+com/fju/C.java
+ com.fju.C
+com/fju/E.java
+ com.fju.E
+com/fju/Combo.java
+ com.fju.Combo
+com/fju/ComboMeal.java
+ com.fju.ComboMeal
+com/fju/D.java
+ com.fju.D
 com/fju/A.java
  com.fju.A
-com/fju/McChicken.java
- com.fju.McChicken
+com/fju/B.java
+ com.fju.B
 com/fju/Tester.java
  com.fju.Tester

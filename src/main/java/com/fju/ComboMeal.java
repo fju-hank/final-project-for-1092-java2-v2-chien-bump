@@ -1,4 +1,4 @@
 package com.fju;
 
-public abstract class ComboMeal extends Menu{
+public abstract class ComboMeal extends Combo{
 }
