@@ -2,7 +2,7 @@ package com.fju;
 
 public class CheeseBurger extends BeefBurger {
     public CheeseBurger( ){
-        name = "吉事漢堡";
+        name = "CheeseBurger";
         price = 42;
     }
 }

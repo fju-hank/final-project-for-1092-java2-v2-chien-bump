@@ -2,7 +2,7 @@ package com.fju;
 
 public class BLTBeefBurger extends BLTseries{
     public BLTBeefBurger ( ){
-        name="BLT安格斯黑牛堡";
+        name="BLTBeefBurger";
         price = 109;
     }
 }

@@ -2,7 +2,7 @@ package com.fju;
 
 public class E extends ComboMeal{
     E( ){
-        name = "6塊雞塊+飲料+小薯";
+        name = "6 Chicken Wedges + Drink + French Fries";
         price = 85;
     }
 }
