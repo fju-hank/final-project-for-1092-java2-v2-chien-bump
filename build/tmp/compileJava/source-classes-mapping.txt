@@ -1,19 +1,11 @@
-com/fju/Menu.java
- com.fju.Menu
+com/fju/E.java
+ com.fju.E
 com/fju/BLTseries.java
  com.fju.BLTseries
-com/fju/ChickenBurger.java
- com.fju.ChickenBurger
-com/fju/BeefBurger.java
- com.fju.BeefBurger
 com/fju/Combo.java
  com.fju.Combo
 com/fju/ComboMeal.java
  com.fju.ComboMeal
-com/fju/E.java
- com.fju.E
-com/fju/Tester.java
- com.fju.Tester
 com/fju/D.java
  com.fju.D
 com/fju/BLTSpicyChickenBurger.java
@@ -28,13 +20,21 @@ com/fju/SpicyChickenBurger.java
  com.fju.SpicyChickenBurger
 com/fju/McFish.java
  com.fju.McFish
+com/fju/ChickenBurger.java
+ com.fju.ChickenBurger
 com/fju/CheeseBurger.java
  com.fju.CheeseBurger
 com/fju/BigMac.java
  com.fju.BigMac
+com/fju/Menu.java
+ com.fju.Menu
 com/fju/BLTBeefBurger.java
  com.fju.BLTBeefBurger
+com/fju/BeefBurger.java
+ com.fju.BeefBurger
 com/fju/A.java
  com.fju.A
 com/fju/McChicken.java
  com.fju.McChicken
+com/fju/Tester.java
+ com.fju.Tester
